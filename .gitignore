@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+wheels/
+.DS_Store
+Thumbs.db
+
+# Common accidental plaintext files
+.env
+*.log
+secret.txt
+seed.txt
+mnemonic.txt
+passphrase.txt
+decrypted*
